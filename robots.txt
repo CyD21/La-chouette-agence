@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://cyd21.github.io/dutoitcyrille_P4_corrige/sitemap.xml

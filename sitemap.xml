@@ -1,17 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset>
 <url>
 <loc>https://cyd21.github.io/dutoitcyrille_P4_corrige/</loc>
 <lastmod>2022-02-17T17:15:28+00:00</lastmod>
 <priority>1.00</priority>
+<changefreq>monthly</changefreq>
 </url>
 <url>
 <loc>https://cyd21.github.io/dutoitcyrille_P4_corrige/index.html</loc>
 <lastmod>2022-02-17T17:15:28+00:00</lastmod>
 <priority>0.80</priority>
+<changefreq>monthly</changefreq>
 </url>
 <url>
 <loc>https://cyd21.github.io/dutoitcyrille_P4_corrige/contact.html</loc>
 <lastmod>2022-02-17T17:15:28+00:00</lastmod>
 <priority>0.80</priority>
+<changefreq>monthly</changefreq>
 </url>
 </urlset>
